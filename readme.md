@@ -39,6 +39,6 @@
 
 
 Resources:
-- [Bootstrap Javascript Documentation]()
+- [Bootstrap Javascript Documentation](https://getbootstrap.com/docs/3.3/javascript/)
 - [Javascript DOM element functions](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 - [Javascript Event Listeners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
