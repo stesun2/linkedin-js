@@ -8,7 +8,7 @@
 ## Releases
 
 ### Release 0 - Link Up
-  let's start by connecting our `script.js` file to our html document. Can you recall where in the document the link should be? Make sure the JS file has the [window.onload](https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onload) function setup as well.
+  let's start by connecting our `script.js` file to our html document. Can you recall where in the document the link should be? 
 
 ### Release 1 - Save some Selectors
   Next, let's make sure we can query the document by selectors. choose an element(or set of) and
