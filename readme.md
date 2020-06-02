@@ -34,6 +34,7 @@ Create a few Event Listeners for your profile to react to when a person clicks o
 You know the drill, take a selected element, and animate it!Perhaps you can connect your animation function with your previous EVENT LISTENERS??!
 
 #### Resources:
+- [Bootstrap Documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 - [Bootstrap Javascript Documentation](https://getbootstrap.com/docs/3.3/javascript/)
 - [Javascript DOM element functions](https://developer.mozilla.org/en-US/docs/Web/API/Element)
 - [Javascript Event Listeners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
