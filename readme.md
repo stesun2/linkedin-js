@@ -11,7 +11,7 @@ Copy over the code you wrote in the `index.html` from the LinkedIn HTML challeng
 Let's start by connecting our `script.js` and `style.css` files to our html document. Can you recall where in the document the link should be? Get some styling in your HTML file to make it look more like LinkedIn!
 
 ### Release 1 - Save some Selectors
-Next, let's make sure we can query the document by selectors. choose an element(or set of) andmake four variables that hold the result of calling document.
+Next, let's make sure we can query the document by selectors. choose an element(or set of) and make four variables that hold the result of calling document.
 - [getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById)
 - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
 - [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
